@@ -1,0 +1,21 @@
+.menu{
+    background: rgba(0,0,2,.8);
+    width:10%;
+    padding: 10px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    display: block;
+    border-bottom: 1px solid white;
+}
+ul li a:hover{
+    background: rgba(0,2,7,1);
+}
